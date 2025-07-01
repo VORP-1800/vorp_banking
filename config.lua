@@ -1,6 +1,6 @@
 Config                    = {}
 
-Config.Lang               = "English"
+Config.Lang               = "Spanish"
 
 Config.WithdrawLogWebhook = ""
 
